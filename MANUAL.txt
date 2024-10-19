@@ -1,0 +1,7 @@
+    D:
+   
+cd D:\BUP study\3rd sem and thesis\thesis\tools and works\aco java main\Ant-Colony-Optimization-for-the-Traveling-Salesman-Problem-master
+
+    javac Main.java
+
+    java Main
